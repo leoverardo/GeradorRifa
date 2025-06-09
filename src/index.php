@@ -3,16 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="styles/style.css">
     <title>Tiger Rifas</title>
 </head>
 <body>
     <header>
-        <img src="maxresdefault-removebg-preview.png" class="tiger_logo" alt="">
+        <img src="img/maxresdefault-removebg-preview.png" class="tiger_logo" alt="">
         <h1>Bem vindo As Rifas Fortune Tiger</h1>
     </header>
     <main>
-        <img src="banner_tiger.jpg" alt="">
+        <img src="img/banner_tiger.jpg" alt="">
         <h1>Para começar, escolha uma das opções abaixo:</h1>
         <div class="options">
         <ul>

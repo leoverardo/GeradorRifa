@@ -12,11 +12,11 @@ if (file_exists('rifas.json')) {
 <head>
     <meta charset="UTF-8">
     <title>Lista de Rifas</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="styles/style.css">
 </head>
 <body>
     <header>
-        <img src="maxresdefault-removebg-preview.png" class="tiger_logo" alt="Logo">
+        <img src="img/maxresdefault-removebg-preview.png" class="tiger_logo" alt="Logo">
         <h1>Rifas Cadastradas</h1>
     </header>
     <main>
